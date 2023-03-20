@@ -39,5 +39,5 @@ Here are some ideas to get you started:-->
   <a href="https://code.visualstudio.com/" title="Visual Studio Code"><img src="https://github.com/get-icon/geticon/raw/master/icons/visual-studio-code.svg" alt="Visual Studio Code" width="40" height="40"></a>
 </div>
 <h3>About Me:</h3>
-- 🔭 Competitive Programmer
+- 🔭 Competitive Programmer</br>
 - 😄 Pronouns: He/Him
