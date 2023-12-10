@@ -14,12 +14,8 @@ Here are some ideas to get you started:-->
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif">
-  <img src="https://github-readme-stats.vercel.app/api?username=yvjawahar&show_icons=true&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yvjawahar&show_icons=true&theme=transparent"/>
 </div>
-<div id="badges" align="center">
-  <a href="[your-linkedin-URL](https://www.linkedin.com/in/yv-j-576b121b8/)">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
 </div>
 <h3 align='center'>About Me</h3>
     <p align='center'> A passionate developer,Machine Learning Enthusiast </p>
