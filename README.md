@@ -18,7 +18,7 @@ Here are some ideas to get you started:-->
 </div>
 </div>
 <h3 align='center'>About Me</h3>
-    <p align='center'> A passionate developer,Machine Learning Enthusiast </p>
+    <p align='center'>Machine Learning Enthusiast | Competitive Programmer </p>
     <p align='center'>
     Pronouns: He/Him 
     </p>
